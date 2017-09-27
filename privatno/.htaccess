@@ -1,0 +1,4 @@
+AuthType Basic
+AuthUserFile "/var/www/WebDiP/2016_projekti/WebDiP2016x043/privatno/korisnici.txt"
+AuthName "Autentikacija korisnika:"
+Require valid-user

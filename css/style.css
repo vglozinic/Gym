@@ -1,0 +1,597 @@
+@media screen and (max-width: 320px){
+
+#container{
+    width: 100%;
+}
+
+#logo{
+    padding-top: 8px;
+}
+
+#header{
+    font-size: 28pt;
+    padding: 0px 24px 0px 24px;
+}
+
+#information{
+    font-size: 12pt;
+}
+
+#menu{
+    font-size: 14pt;
+}
+
+#content{
+    font-size: 12pt;
+    padding: 0px 24px 0px 24px;
+}
+
+#footer{
+    font-size: 12pt;
+    padding: 4px 0px 8px 0px;
+}
+
+h2{
+    font-size: 14pt;
+    margin: 8px 0px 4px 0px;
+}
+
+input{
+    font-size: 12pt;
+}
+
+textarea{
+    font-size: 12pt;
+    width: 240px;
+}
+
+button{
+    font-size: 12pt;
+}
+
+select{
+    font-size: 12pt;
+}
+
+} /*--------------end 320------------------*/
+
+@media screen and (min-width: 320px) and (max-width: 480px){
+
+#container{
+    width: 100%;
+}
+
+#logo{
+    padding-top: 8px;
+}
+
+#header{
+    font-size: 28pt;
+    padding: 0px 24px 0px 24px;
+}
+
+#information{
+    font-size: 12pt;
+}
+
+#menu{
+    font-size: 14pt;
+}
+
+#content{
+    font-size: 12pt;
+    padding: 0px 24px 0px 24px;
+}
+
+#footer{
+    font-size: 12pt;
+    padding: 4px 0px 8px 0px;
+}
+
+h2{
+    font-size: 14pt;
+    margin: 8px 0px 4px 0px;
+}
+
+input{
+    font-size: 12pt;
+}
+
+textarea{
+    font-size: 12pt;
+    width: 240px;
+}
+
+button{
+    font-size: 12pt;
+}
+
+select{
+    font-size: 12pt;
+}
+
+} /*--------------end 480------------------*/
+
+@media screen and (min-width: 480px) and (max-width: 640px){
+
+#container{
+    width: 100%;
+}
+
+#logo{
+    padding-top: 8px;
+}
+
+#header{
+    font-size: 36pt;
+    padding: 0px 24px 0px 24px;
+}
+
+#information{
+    font-size: 13pt;
+}
+
+#menu{
+    font-size: 16pt;
+}
+
+#content{
+    font-size: 13pt;
+    padding: 0px 24px 0px 24px;
+}
+
+#footer{
+    font-size: 13pt;
+    padding: 4px 0px 8px 0px;
+}
+
+h2{
+    font-size: 15pt;
+    margin: 8px 0px 8px 0px;
+}
+
+input{
+    font-size: 13pt;
+}
+
+textarea{
+    font-size: 13pt;
+    width: 400px;
+}
+
+button{
+    font-size: 13pt;
+}
+
+select{
+    font-size: 13pt;
+}
+
+} /*--------------end 640------------------*/
+
+@media screen and (min-width: 640px) and (max-width: 768px){
+
+#container{
+    width: 100%;
+}
+
+#logo{
+    padding-top: 8px;
+}
+
+#header{
+    font-size: 42pt;
+    padding: 0px 24px 0px 24px;
+}
+
+#information{
+    font-size: 13pt;
+}
+
+#menu{
+    font-size: 16pt;
+}
+
+#content{
+    font-size: 13pt;
+    padding: 0px 24px 0px 24px;
+}
+
+#footer{
+     font-size: 13pt;
+    padding: 4px 0px 8px 0px;
+}
+
+h2{
+    font-size: 15pt;
+    margin: 8px 0px 8px 0px;
+}
+
+input{
+    font-size: 13pt;
+}
+
+textarea{
+    font-size: 13pt;
+    width: 480px;
+}
+
+button{
+    font-size: 13pt;
+}
+
+select{
+    font-size: 13pt;
+}
+
+} /*--------------end 960------------------*/
+
+@media screen and (min-width: 768px) and (max-width: 1024px){
+
+#container{
+    width: 100%;
+}
+
+#logo{
+    padding-top: 8px;
+}
+
+#header{
+    font-size: 48pt;
+    padding: 0px 24px 0px 24px;
+}
+
+#information{
+    font-size: 14pt;
+}
+
+#menu{
+    font-size: 18pt;
+}
+
+#content{
+    font-size: 14pt;
+    padding: 0px 24px 0px 24px;
+}
+
+#footer{
+    font-size: 14pt;
+    padding: 4px 0px 8px 0px;
+}
+
+h2{
+    font-size: 16pt;
+    margin: 8px 0px 12px 0px;
+}
+
+input{
+    font-size: 14pt;
+}
+
+textarea{
+    font-size: 14pt;
+    width: 480px;
+}
+
+button{
+    font-size: 14pt;
+}
+
+select{
+    font-size: 14pt;
+}
+
+} /*--------------end 1024------------------*/
+
+@media screen and (min-width: 1024px){
+
+#container{
+    margin: 12px 0px 24px 0px;
+    width: 960px;
+    padding-left: 32px;
+    padding-right: 32px;
+}
+
+#logo{
+    padding-top: 16px;
+}
+
+#header{
+    font-size: 48pt;
+}
+
+#information{
+    font-size: 14pt;
+}
+
+#menu{
+    font-size: 18pt;
+}
+
+#content{
+    font-size: 14pt;
+}
+
+#footer{
+    font-size: 14pt;
+    padding-bottom: 16px;
+    padding-top: 4px;
+}
+
+h2{
+    font-size: 16pt;
+    margin: 8px 0px 12px 0px;
+}
+
+input{
+    font-size: 14pt;
+}
+
+textarea{
+    font-size: 14pt;
+    width: 480px;
+}
+
+button{
+    font-size: 14pt;
+}
+
+select{
+    font-size: 14pt;
+}
+
+} /*--------------end 1920------------------*/
+
+
+body{
+    background-image: url("../slike/pozadina.jpg");
+    background-size: 100%;
+    width: 100%;
+    text-align: center;
+    margin: 0px;
+}
+
+#strecher {
+    background-color: white;
+    text-align: center;
+}
+
+#header{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#container{
+    display: inline-block;
+    background-color: #FFFFFF;
+    box-shadow: 2px 2px 4px #444444;
+}
+
+#content{
+    text-align: center;
+}
+
+table,td,th,tr {
+    border: 1px solid #111111;
+    border-collapse: collapse;
+}
+
+th, td{
+    padding: 4px 8px 4px 8px;
+}
+
+th {
+    background-color: #111111;
+    color: white;
+}
+
+hr{
+    margin: 8px 0px 8px 0px;
+}
+
+a{
+    color:black;
+    text-decoration: none;
+}
+
+a:hover{
+    color:black;
+    text-decoration: underline;
+}
+
+a:visited{
+    color:black;
+    text-decoration: none;
+}
+
+#menu > ul {
+    text-decoration: none;
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+#menu > ul li{
+    display: inline-block;
+    width: auto;
+    margin: 0px 4px 0px 4px;
+}
+
+p{
+    margin: 0px;
+}
+
+.p_margin {
+    margin-bottom: 4px;
+    margin-top: 4px;
+}
+
+.ravnomjerno{
+    text-align: justify;
+    margin-bottom: 8px;
+    width: auto;
+}
+
+.tablica{
+    overflow-x: auto;
+}
+
+.tablica > table{
+    margin: auto;
+}
+
+input{
+    border: 1px solid black;
+    text-align: center;
+    padding: 2px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+textarea{
+    border: 1px solid black;
+    text-align: left;
+    padding: 4px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+button{
+    border: 1px solid black;
+    text-align: center;
+    padding: 2px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.gumb{
+    padding: 8px 12px 8px 12px ;
+    background-color: white;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+.gumb:hover{
+    background-color: black;
+    color: white;
+    cursor:pointer;
+}
+
+.pushed{
+    padding: 8px 12px 8px 12px ;
+    font-weight: bold;
+    margin-bottom: 8px;
+    background-color: black;
+    color: white;
+    cursor:pointer;
+}
+
+.div_margin{
+    margin-bottom: 8px;
+}
+
+.input{
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
+
+.krivo{
+    margin-bottom: 2px;
+    border: 1px solid red;
+}
+
+#forma_prijava{
+    margin-top: 12px;
+}
+
+.podebljano{
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.upload{
+    width: 225px;
+    text-align: left;
+}
+
+.current{
+    text-decoration: underline;
+}
+
+.skrij{
+    display: none;
+    visibility: hidden;
+
+}
+
+.div_reg{
+    display:inline-block;
+    vertical-align: top;
+    width: 225px;
+    margin-bottom: 8px;
+}
+
+.div_pro{
+    display:inline-block;
+    width: 120px;
+}
+
+.kosarica{
+    padding: 4px 8px 4px 8px;
+    background-color: white;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+.kosarica:hover{
+    background-color: black;
+    color: white;
+    cursor:pointer;
+}
+
+.galerija{
+    display: inline-block;
+    margin: 10px;
+}
+
+.margin_top{
+    margin-top: 10px;
+}
+
+select{
+    border: 1px solid black;
+    text-align: center;
+    padding: 2px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 8px;
+}
+
+figure{
+    margin: 0px;
+}
+
+option{
+    padding-right: 4px;
+}
+
+#div_captcha{
+    margin: auto;
+    margin-bottom: 16px;
+    margin-top: 12px;
+    display:inline-block;
+    text-align: center;
+    width: 305px;
+    
+    display: block;
+}
+
+#error_captcha{
+    margin-top: 8px;
+}
+
+#div_footnote{
+    clear: both;
+    display: none;
+    visibility: hidden;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+
+
